@@ -1,0 +1,42 @@
+.subheader {
+  background: #1f2a38;
+  display: flex;
+  align-items: center;
+}
+
+.subheader__addressContent {
+  display: flex;
+  align-items: center;
+  padding: 1px 20px 8px 20px;
+}
+
+.subheader__addresstxt {
+  margin-left: 6px;
+}
+
+.subheader__optionLineOne {
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.subheader__optionLineTwo {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.subheader__nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.subheader__link {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.subheader__navLink {
+  display: flex;
+  margin: 0px 10px;
+}

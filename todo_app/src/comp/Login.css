@@ -1,0 +1,32 @@
+.login_container {
+  position: absolute;
+  max-width: 300px;
+  top: 30%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -150px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.login_title {
+  text-align: center;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+}
+
+.login_form {
+  max-width: 280px;
+  padding: 0px 20px 0px 20px;
+}
+
+.login_confirmation {
+  padding: 0px 20px 0px 20px;
+  text-align: justify;
+  font-size: 12px;
+}
+
+.signup_btn {
+  text-align: center;
+  padding: 0px 0px 20px 0px;
+}

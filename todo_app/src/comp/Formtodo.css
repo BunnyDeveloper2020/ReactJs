@@ -1,0 +1,34 @@
+.form_container {
+  background-color: #ffffff;
+  max-width: 300px;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.75);
+}
+
+.form_todoinput {
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+}
+
+.todo_data {
+  padding-left: 0px;
+  margin: auto;
+  text-align: center;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1440px) {
+  /* Styles */
+  .form_container {
+    max-width: 600px;
+  }
+  .form_todoinput {
+    padding: 20px 160px 10px 160px;
+  }
+
+  .todo_data {
+    padding: 0px 140px;
+    margin: auto;
+  }
+}

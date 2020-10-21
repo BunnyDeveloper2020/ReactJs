@@ -1,0 +1,20 @@
+.hero_section {
+  padding: 80px 20px 0px 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero_secText h2 {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.hero_secText h3 {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.link {
+  text-decoration: none;
+  color: #000000;
+}
